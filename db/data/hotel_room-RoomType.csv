@@ -1,0 +1,5 @@
+Code,name,descr
+SGL,Single,Habitación individual estándar
+DBL,Double,Habitación doble con cama matrimonial o dos camas
+SUI,Suite,Suite de lujo con sala de estar
+FAM,Family,Habitación familiar con capacidad para cuatro personas

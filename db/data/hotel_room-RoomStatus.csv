@@ -1,0 +1,5 @@
+Code,name,descr
+AVL,Available,Lista para recibir huéspedes
+OCC,Occupied,Actualmente ocupada
+CLN,Cleaning,En proceso de limpieza y desinfección
+MNT,Maintenance,Fuera de servicio por reparaciones
